@@ -1,0 +1,34 @@
+feature_name,feature_type,mean,std,standardized
+Age,continuous,64.93112948,12.37380133,TRUE
+Sex,binary,0,1,FALSE
+Time from disease onset to first CT scan,continuous,6.592286501,8.375758409,TRUE
+Systolic pressure,continuous,179.6942149,26.66220992,TRUE
+GCS score,continuous,11.48209366,4.697644216,TRUE
+Hematoma volume,continuous,20.99397466,23.10972451,TRUE
+Irregular hematoma shape,binary,0,1,FALSE
+Blend sign,binary,0,1,FALSE
+Blackhole sign,binary,0,1,FALSE
+Swirl sign,binary,0,1,FALSE
+Satellite sign,binary,0,1,FALSE
+Island sign,binary,0,1,FALSE
+original_glszm_ZoneVariance,continuous,132388051.2,365640526,TRUE
+wavelet-LLH_glszm_LargeAreaLowGrayLevelEmphasis,continuous,12237124.73,18970097.15,TRUE
+wavelet-LLH_glszm_SizeZoneNonUniformity,continuous,4.922932274,5.025379065,TRUE
+wavelet-LHL_firstorder_InterquartileRange,continuous,0.0214382,0.00369461,TRUE
+wavelet-LHL_glszm_SizeZoneNonUniformityNormalized,continuous,0.306869461,0.09913694,TRUE
+wavelet-HLL_glcm_JointAverage,continuous,1.443219495,0.029226082,TRUE
+wavelet-HLH_glcm_JointAverage,continuous,1.504445316,0.007634803,TRUE
+wavelet-HHL_glrlm_LongRunHighGrayLevelEmphasis,continuous,13.11750762,2.054180741,TRUE
+wavelet-HHL_glszm_SmallAreaHighGrayLevelEmphasis,continuous,0.373017441,0.484888619,TRUE
+wavelet-HHH_glszm_HighGrayLevelZoneEmphasis,continuous,2.508627476,0.20867779,TRUE
+log-sigma-1-0-mm-3D_gldm_LargeDependenceEmphasis,continuous,362.1037764,27.2472945,TRUE
+log-sigma-1-0-mm-3D_glrlm_RunVariance,continuous,6.192157916,1.130326424,TRUE
+log-sigma-1-0-mm-3D_glszm_SmallAreaLowGrayLevelEmphasis,continuous,0.121404765,0.031989956,TRUE
+log-sigma-1-0-mm-3D_ngtdm_Busyness,continuous,72150.4121,393182.5281,TRUE
+log-sigma-2-0-mm-3D_gldm_DependenceNonUniformityNormalized,continuous,0.178675925,0.041570534,TRUE
+log-sigma-2-0-mm-3D_glszm_SizeZoneNonUniformity,continuous,10.08929275,8.023228369,TRUE
+log-sigma-2-0-mm-3D_glszm_SizeZoneNonUniformityNormalized,continuous,0.239530652,0.082165185,TRUE
+log-sigma-3-0-mm-3D_firstorder_Kurtosis,continuous,6.897332467,15.06633876,TRUE
+log-sigma-3-0-mm-3D_firstorder_Maximum,continuous,0.103629018,0.169608543,TRUE
+log-sigma-3-0-mm-3D_glrlm_RunLengthNonUniformityNormalized,continuous,0.110762811,0.025648885,TRUE
+log-sigma-3-0-mm-3D_ngtdm_Busyness,continuous,1659.183084,5271.200323,TRUE

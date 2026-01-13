@@ -1,0 +1,12 @@
+numpy==1.26.4
+streamlit
+pandas
+scikit-learn
+PyYAML
+shap
+joblib
+matplotlib
+pyradiomics
+SimpleITK
+xgboost
+lightgbm
